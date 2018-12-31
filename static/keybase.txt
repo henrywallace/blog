@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/henrywallace
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://henrywallace.io
+  * I am henrywallace (https://keybase.io/henrywallace) on keybase.
+  * I have a public key with fingerprint D40D E3F0 F1D3 18DC 3934  ECFD EDA1 8EA7 6379 432A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ca1624271d742af514dd9befc836dfd2b26b04113412f45f37a3c2df114584f50a",
+      "fingerprint": "d40de3f0f1d318dc3934ecfdeda18ea76379432a",
+      "host": "keybase.io",
+      "key_id": "eda18ea76379432a",
+      "kid": "01167e7ab67a73ea5bd58c8efac804e9f7eed108a01cd808f824aa8a66c6849812ff0a",
+      "uid": "8302668f0453273128f77dd2a8e8d719",
+      "username": "henrywallace"
+    },
+    "merkle_root": {
+      "ctime": 1546273205,
+      "hash_meta": "aa4cbe8f82319ed9e32f0269559c629f359014b38cca4c175bf1ca48fcfb7ede",
+      "seqno": 4213551
+    },
+    "revoke": {
+      "sig_ids": [
+        "b728dce1ab833c651c8dc370c627b9c459d43aa86890938caa26097dab934d7a0f"
+      ]
+    },
+    "service": {
+      "hostname": "henrywallace.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1546273212,
+  "expire_in": 157680000,
+  "prev": "a83b9bf05c8f4b8db2d98ebb9bb5706c5b6a8366e540a44d0541d1426d78b415",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtU8tqFEEUnZhEcDAgCkGICjYoKEHq/ZiFIIIL3QiCICpDPW4lbSbTY3dnkiGo
+K9GV6EIEN0EQXPgHghjEnSiCLt3pRomg4EbER9VoECS96e5b555z6tyqmxOjjebk
+p3s3HrjB0YMjzz/YxrmDR94vZ7bwg6y1nM3B8AUdD1Xdnst91soQJsgZLAgjEnvJ
+iAkcM++1heAUFT54YomwiGFMGSaB8UCloY74gDHjigWOTDadhbw7A2WvzLt1pPUM
+eaABBewpVt5RTRm44MEbrMBIQaVmlKTG2aJKHdGcNRUcyotYiz/tob0N8Ou+sZAg
+jRXSSAqGW8+VUxCMU4iBDhLAY6QMws4rpIIizBhlhHBCMa3iTsLQ98KQTlFEhFAB
+MU6JpJioIKX3xChQXmKdgBWUXTMPET0L3XKwaDod4yC7NJ3NQznXgXZZFHUK2NV5
+gmHOROQiiMdNmmq2PQ+1id3GMGchOaJYg9dASYjqmnPtBNGBco0ws1Q5F5FYchtw
+/FLBBSvBQ/RSwcVukbUYwZRzHB2U0C/mIIlX+UyMrspaZ7PVy1aSGD5gYxWlTnDs
+0iwkijrSase49ozGWITSSEdBY4hAWnpj47y8NChk5y8lubKfuyF9mtYGKfwZW68s
+6sIVnbRY172qlcKpB72EXgTb/svTtnnXx+MSO/pQVnnRjWFF5H+5YTKdwVIvL6Gd
+JwSXQqH4JB3opyAVtdoGxJ0KzCpvidcKbKxZLpFw3IoIEQI4Q4YxjzjDHjMivFSW
+Yf4vSEKjTzMTOWN8XVMvlHGuzesLY43JZmP35N6xNxPvPn95vfOtZms/1m/Y+KZ0
+vRrNLdvWK+hk49ex+3defn88uuv4ngsHzInBFbF0Ay+9uHV15dvp/QsPv38caTx7
+emrH1sPji296V6ZWf37dt/bqdm/q7s3NT+jKtTOPto/9Bg==
+=Kkpa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/henrywallace
+
+==================================================================
