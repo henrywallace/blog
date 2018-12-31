@@ -1,1 +1,3 @@
-# blog
+# Blog
+
+Code for https://henrywallace.io.

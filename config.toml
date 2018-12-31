@@ -1,0 +1,17 @@
+baseURL = "https://henrywallace.io"
+languageCode = "en-us"
+title = "Blog"
+theme = "hugo-xmin"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
