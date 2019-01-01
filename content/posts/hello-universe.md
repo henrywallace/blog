@@ -27,8 +27,7 @@ We can show it by induction: Assume `$n^2 = S(n) = \sum_{k=0}^{n-1} 2k+1$`. Then
 
 Voilà! And we can also see it visually:
 
-<img src="/images/square.png" style="max-width:15%;min-width:40px;display:block;margin:auto;" />
-
+<img src="/images/square.png" alt="a square" style="max-width:15%;min-width:40px;display:block;margin:auto;" />
 
 Each new layer is just a copy of the previous, but with _two_ more dots added
 on. And we begin with just one.
@@ -37,7 +36,7 @@ Going further we can construct similar reasoning for triangles, pentagons, and
 other regular polygons. In the triangle below each new row is a copy of the
 previous, with _one_ more dot added on.
 
-<img src="/images/triangle.png" style="max-width:15%;min-width:40px;display:block;margin:auto;" />
+<img src="/images/triangle.png" alt="a triangle" style="max-width:15%;min-width:40px;display:block;margin:auto;" />
 
 Instead of sums of consecutive odd numbers, we can generalize to sums of an
 arithmetic series with different step-sizes:
