@@ -7,7 +7,7 @@ I'm Henry, and here's some info:
 
 Github: https://github.com/henrywallace
 
-Email: `echo aGVucnl3YWxsYWNlLmlvCg | base64 --decode`
+Email: `echo aGVucnl3YWxsYWNlLmlvCg== | base64 --decode`
 
 GPG public key:
 ```
